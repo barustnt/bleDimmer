@@ -1,0 +1,13 @@
+.\_build\boards.o: ..\..\..\..\..\dfu\experimental_ant_bootloader\libs\include\boards\boards.c
+.\_build\boards.o: ..\..\..\..\..\dfu\experimental_ant_bootloader\libs\include\boards\boards.h
+.\_build\boards.o: ..\..\..\..\..\..\components\drivers_nrf\hal\nrf_gpio.h
+.\_build\boards.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\boards.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\core_cm0.h
+.\_build\boards.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\boards.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_version.h
+.\_build\boards.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_compiler.h
+.\_build\boards.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.1\CMSIS\Include\cmsis_armcc.h
+.\_build\boards.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\boards.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\boards.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\_build\boards.o: ..\..\..\..\..\dfu\experimental_ant_bootloader\libs\include\boards\pca20006.h
